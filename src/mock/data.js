@@ -64,7 +64,7 @@ export const projectsData = [
     id: uuidv1(),
     img: 'connect4.PNG',
     title: 'Connect 4',
-    info: '',
+    info: 'If your looking for a simple strategy game that can be played with just about anyone, Legendary Four is for you. Legendary Four is a simple game similar to Tic-Tac-Toe. Only instead of three in a row, the winner must connect four in a row.',
     info2: '',
     url: 'https://hassenh1.github.io/Legendary-4/',
     repo: 'https://github.com/HassenH1/Legendary-4', // if no repo, the button will not show up
