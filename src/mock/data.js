@@ -73,7 +73,7 @@ export const projectsData = [
     id: uuidv1(),
     img: 'realestate.PNG',
     title: 'Real Estate',
-    info: '',
+    info: 'Simple website for allowing a user to post there home up for sale or even search for home',
     info2: '',
     url: 'https://obscure-stream-37275.herokuapp.com/',
     repo: 'https://github.com/HassenH1/real-estate', // if no repo, the button will not show up
