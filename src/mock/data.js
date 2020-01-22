@@ -57,7 +57,7 @@ export const projectsData = [
     title: 'Github Finder',
     info: 'Github finder is a simple web app that allows someone to search for a Github user and display there most recent repository.',
     info2: '',
-    url: '',
+    url: 'https://hassenh1.github.io/TheGithubMiniProject/',
     repo: 'https://github.com/HassenH1/TheGithubMiniProject', // if no repo, the button will not show up
   },
   {
