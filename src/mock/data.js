@@ -48,7 +48,7 @@ export const projectsData = [
     title: 'Gamer Review',
     info: 'A video game reviews site where users can register and express their opinions on a wide range of titles.',
     info2: '',
-    url: '',
+    url: 'https://legendary-game-reviews.herokuapp.com/',
     repo: 'https://github.com/HassenH1/project3-react', // if no repo, the button will not show up
   },
   {
@@ -66,7 +66,7 @@ export const projectsData = [
     title: 'Connect 4',
     info: '',
     info2: '',
-    url: '',
+    url: 'https://hassenh1.github.io/Legendary-4/',
     repo: 'https://github.com/HassenH1/Legendary-4', // if no repo, the button will not show up
   },
   {
@@ -75,7 +75,7 @@ export const projectsData = [
     title: 'Real Estate',
     info: '',
     info2: '',
-    url: '',
+    url: 'https://obscure-stream-37275.herokuapp.com/',
     repo: 'https://github.com/HassenH1/real-estate', // if no repo, the button will not show up
   },
   {
@@ -84,7 +84,7 @@ export const projectsData = [
     title: 'Tamagotchi',
     info: '',
     info2: '',
-    url: '',
+    url: 'https://hassenh1.github.io/Tomagotchi/',
     repo: 'https://github.com/HassenH1/Tomagotchi', // if no repo, the button will not show up
   },
   {
@@ -93,7 +93,7 @@ export const projectsData = [
     title: 'Pipboy from Fallout',
     info: '',
     info2: '',
-    url: '',
+    url: 'https://hassenh1.github.io/Pipboy-UI-from-Fallout-Bootstrap-/',
     repo: 'https://github.com/HassenH1/Pipboy-UI-from-Fallout-Bootstrap-', // if no repo, the button will not show up
   },
 ];
