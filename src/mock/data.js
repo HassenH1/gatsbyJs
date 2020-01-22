@@ -91,7 +91,7 @@ export const projectsData = [
     id: uuidv1(),
     img: 'pipboy.PNG',
     title: 'Pipboy from Fallout',
-    info: '',
+    info: 'The Pip-Boy is a chunky portable computer that character from a video game wears on his or her wrist. It is used to keep track of everything in the game. So this is just a UI version.',
     info2: '',
     url: 'https://hassenh1.github.io/Pipboy-UI-from-Fallout-Bootstrap-/',
     repo: 'https://github.com/HassenH1/Pipboy-UI-from-Fallout-Bootstrap-', // if no repo, the button will not show up
