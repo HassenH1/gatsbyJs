@@ -82,7 +82,7 @@ export const projectsData = [
     id: uuidv1(),
     img: 'tom.PNG',
     title: 'Tamagotchi',
-    info: '',
+    info: 'Tamagotchi is a virtual pet game that has some buttons which you tap to select and perform activities such as feeding your Tamagotchi, playing, and putting it to sleep. Try to make the Tamagotchi Happy!.',
     info2: '',
     url: 'https://hassenh1.github.io/Tomagotchi/',
     repo: 'https://github.com/HassenH1/Tomagotchi', // if no repo, the button will not show up
