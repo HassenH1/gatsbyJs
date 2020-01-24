@@ -30,7 +30,7 @@ export const projectsData = [
     title: 'Clothin Store',
     info: 'A simple E-commerce fashion store website developed using MERN stack so Mongodb, Expressjs, Reactjs, Nodejs, and with firebase for user authenication and storage. It has features like Signup, Login, Add to Cart, browing through clothes etc.',
     info2: '',
-    url: '',
+    url: 'https://gentle-wildwood-37747.herokuapp.com/',
     repo: 'https://github.com/HassenH1/capstone', // if no repo, the button will not show up
   },
   {
