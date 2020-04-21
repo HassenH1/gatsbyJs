@@ -30,7 +30,7 @@ export const projectsData = [
     title: 'Netflix Clone',
     info: 'A netflix clone site where a user can watch all the latest and most popular movie trailers and read/leave comments on each trailer. The site has been deployed on AWS EC2 service.',
     info2: '',
-    url: '3.20.221.142',
+    url: 'http://3.20.221.142/',
     repo: 'https://github.com/HassenH1/trailerflix', // if no repo, the button will not show up
   },
   {
