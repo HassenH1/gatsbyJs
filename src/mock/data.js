@@ -26,7 +26,7 @@ export const aboutData = {
 export const projectsData = [
   {
     id: uuidv1(),
-    img: 'youtubeclone.mp4',
+    img: 'Screenshit (22).png',
     title: 'Youtube Clone',
     info: 'Youtube clone made with React Native and Youtube API',
     info2: '',
