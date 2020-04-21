@@ -30,7 +30,7 @@ export const projectsData = [
     title: 'Netflix Clone',
     info: 'A netflix clone site where a user can watch all the latest and most popular movie trailers and read/leave comments on each trailer.',
     info2: '',
-    url: 'https://gentle-wildwood-37747.herokuapp.com/',
+    url: '3.20.221.142',
     repo: 'https://github.com/HassenH1/trailerflix', // if no repo, the button will not show up
   },
   {
