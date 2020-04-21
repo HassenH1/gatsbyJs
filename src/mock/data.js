@@ -26,6 +26,14 @@ export const aboutData = {
 export const projectsData = [
   {
     id: uuidv1(),
+    img: 'youtubeclone.mp4',
+    title: 'Youtube Clone',
+    info: 'Youtube clone made with React Native and Youtube API',
+    info2: '',
+    repo: 'https://github.com/HassenH1/React_Native', // if no repo, the button will not show up
+  },
+  {
+    id: uuidv1(),
     img: 'Screenshot.png',
     title: 'Netflix Clone',
     info: 'A netflix clone site where a user can watch all the latest and most popular movie trailers and read/leave comments on each trailer. The site has been deployed on AWS EC2 service.',
