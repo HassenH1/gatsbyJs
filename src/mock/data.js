@@ -26,7 +26,7 @@ export const aboutData = {
 export const projectsData = [
   {
     id: uuidv1(),
-    img: 'Screenshit.png',
+    img: 'Screenshot.png',
     title: 'Netflix Clone',
     info: 'A netflix clone site where a user can watch all the latest and most popular movie trailers and read/leave comments on each trailer.',
     info2: '',
