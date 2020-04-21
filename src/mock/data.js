@@ -28,7 +28,7 @@ export const projectsData = [
     id: uuidv1(),
     img: 'Screenshot.png',
     title: 'Netflix Clone',
-    info: 'A netflix clone site where a user can watch all the latest and most popular movie trailers and read/leave comments on each trailer.',
+    info: 'A netflix clone site where a user can watch all the latest and most popular movie trailers and read/leave comments on each trailer. The site has been deployed on AWS EC2 service.',
     info2: '',
     url: '3.20.221.142',
     repo: 'https://github.com/HassenH1/trailerflix', // if no repo, the button will not show up
@@ -42,15 +42,15 @@ export const projectsData = [
     url: 'https://gentle-wildwood-37747.herokuapp.com/',
     repo: 'https://github.com/HassenH1/capstone', // if no repo, the button will not show up
   },
-  {
-    id: uuidv1(),
-    img: 'adopt1.PNG',
-    title: 'Adopt Me',
-    info: 'Its a game for adopting a pet. Use the swipe right feature of you like an animal or use the swipe left if you do not. Think of it as a wingman for Adopting a Pet wherever you are. If you want to adopt a pet you can look through your history off all the liked pets and choose your favorite and get the contact information.',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/HassenH1/Adopt-Me', // if no repo, the button will not show up
-  },
+  // {
+  //   id: uuidv1(),
+  //   img: 'adopt1.PNG',
+  //   title: 'Adopt Me',
+  //   info: 'Its a game for adopting a pet. Use the swipe right feature of you like an animal or use the swipe left if you do not. Think of it as a wingman for Adopting a Pet wherever you are. If you want to adopt a pet you can look through your history off all the liked pets and choose your favorite and get the contact information.',
+  //   info2: '',
+  //   url: '',
+  //   repo: 'https://github.com/HassenH1/Adopt-Me', // if no repo, the button will not show up
+  // },
   {
     id: uuidv1(),
     img: 'gamereview.png',
