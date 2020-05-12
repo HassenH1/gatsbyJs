@@ -26,7 +26,7 @@ export const aboutData = {
 export const projectsData = [
   {
     id: uuidv1(),
-    img: 'image0.png',
+    img: 'saler.png',
     title: 'Selling App',
     info: 'Selling app made with React Native where a user can browse items that are for sale or post an item for sale themselves.',
     repo: 'https://github.com/HassenH1/nativeProject', // if no repo, the button will not show up
