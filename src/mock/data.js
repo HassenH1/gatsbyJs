@@ -26,7 +26,7 @@ export const aboutData = {
 export const projectsData = [
   {
     id: uuidv1(),
-    img: 'youtubeclone.mp4',
+    img: 'Screenshot (22).png',
     title: 'Youtube Clone',
     info: 'Youtube clone made with React Native and Youtube API',
     repo: 'https://github.com/HassenH1/React_Native', // if no repo, the button will not show up
