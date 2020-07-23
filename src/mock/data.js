@@ -1,5 +1,5 @@
 import uuidv1 from 'uuid/v1';
-import Pdf from '../pdf/Hassen Hasse Resume.pdf';
+import Pdf from '../pdf/Hassen Hassen Resume.pdf';
 
 // HEAD DATA
 export const headData = {
