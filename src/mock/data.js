@@ -18,7 +18,8 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'pic.jpg',
-  paragraphOne: 'Hi, my Name is Hassen S. Hassen and I am a software Engineer with a background in customer service. my background in customer service allows me to communicate effectively with both clients and on a team. I am a creative problem solver with a passion for learning and I continually seek better ways to provide clients with innovative solutions.',
+  paragraphOne:
+    'Hi, my Name is Hassen S. Hassen and I am a software Engineer with a background in customer service. my background in customer service allows me to communicate effectively with both clients and on a team. I am a creative problem solver with a passion for learning and I continually seek better ways to provide clients with innovative solutions.',
   resume: '../pdf/HassenHassenResumeLosAngeles.pdf', // if no resume, the button will not show up
 };
 
@@ -28,7 +29,8 @@ export const projectsData = [
     id: uuidv1(),
     img: 'Screenshot (36).png',
     title: 'Selling App',
-    info: 'Selling app made with React Native where a user can browse items that are for sale or post an item for sale themselves.',
+    info:
+      'Selling app made with React Native where a user can browse items that are for sale or post an item for sale themselves.',
     repo: 'https://github.com/HassenH1/nativeProject', // if no repo, the button will not show up
   },
   {
@@ -42,16 +44,18 @@ export const projectsData = [
     id: uuidv1(),
     img: 'Screenshot.png',
     title: 'Netflix Clone',
-    info: 'A netflix clone site where a user can watch all the latest and most popular movie trailers and read/leave comments on each trailer. The site has been deployed on AWS EC2 service.',
+    info:
+      'A netflix clone site where a user can watch all the latest and most popular movie trailers and read/leave comments on each trailer. The site has been deployed on AWS EC2 service.',
     info2: '',
-    url: 'http://3.20.221.142/',
+    url: 'https://trailerflix1.herokuapp.com/',
     repo: 'https://github.com/HassenH1/trailerflix', // if no repo, the button will not show up
   },
   {
     id: uuidv1(),
     img: 'clothing.PNG',
     title: 'Clothin Store',
-    info: 'A simple E-commerce fashion store website developed using MERN stack so Mongodb, Expressjs, Reactjs, Nodejs, and with firebase for user authenication and storage. It has features like Signup, Login, Add to Cart, browing through clothes etc.',
+    info:
+      'A simple E-commerce fashion store website developed using MERN stack so Mongodb, Expressjs, Reactjs, Nodejs, and with firebase for user authenication and storage. It has features like Signup, Login, Add to Cart, browing through clothes etc.',
     info2: '',
     url: 'https://gentle-wildwood-37747.herokuapp.com/',
     repo: 'https://github.com/HassenH1/capstone', // if no repo, the button will not show up
@@ -69,7 +73,8 @@ export const projectsData = [
     id: uuidv1(),
     img: 'gamereview.png',
     title: 'Gamer Review',
-    info: 'A video game reviews site where users can register and express their opinions on a wide range of titles.',
+    info:
+      'A video game reviews site where users can register and express their opinions on a wide range of titles.',
     info2: '',
     url: 'https://legendary-game-reviews.herokuapp.com/',
     repo: 'https://github.com/HassenH1/project3-react', // if no repo, the button will not show up
@@ -78,7 +83,8 @@ export const projectsData = [
     id: uuidv1(),
     img: 'githubfinder.PNG',
     title: 'Github Finder',
-    info: 'Github finder is a simple web app that allows someone to search for a Github user and display there most recent repository.',
+    info:
+      'Github finder is a simple web app that allows someone to search for a Github user and display there most recent repository.',
     info2: '',
     url: 'https://hassenh1.github.io/TheGithubMiniProject/',
     repo: 'https://github.com/HassenH1/TheGithubMiniProject', // if no repo, the button will not show up
@@ -87,7 +93,8 @@ export const projectsData = [
     id: uuidv1(),
     img: 'connect4.PNG',
     title: 'Connect 4',
-    info: 'If your looking for a simple strategy game that can be played with just about anyone, Legendary Four is for you. Legendary Four is a simple game similar to Tic-Tac-Toe. Only instead of three in a row, the winner must connect four in a row.',
+    info:
+      'If your looking for a simple strategy game that can be played with just about anyone, Legendary Four is for you. Legendary Four is a simple game similar to Tic-Tac-Toe. Only instead of three in a row, the winner must connect four in a row.',
     info2: '',
     url: 'https://hassenh1.github.io/Legendary-4/',
     repo: 'https://github.com/HassenH1/Legendary-4', // if no repo, the button will not show up
@@ -96,7 +103,8 @@ export const projectsData = [
     id: uuidv1(),
     img: 'realestate.PNG',
     title: 'Real Estate',
-    info: 'Simple website for allowing a user to post there home up for sale or even search for home',
+    info:
+      'Simple website for allowing a user to post there home up for sale or even search for home',
     info2: '',
     url: 'https://obscure-stream-37275.herokuapp.com/',
     repo: 'https://github.com/HassenH1/real-estate', // if no repo, the button will not show up
@@ -105,7 +113,8 @@ export const projectsData = [
     id: uuidv1(),
     img: 'tom.PNG',
     title: 'Tamagotchi',
-    info: 'Tamagotchi is a virtual pet game that has some buttons which you tap to select and perform activities such as feeding your Tamagotchi, playing, and putting it to sleep. Try to make the Tamagotchi Happy!.',
+    info:
+      'Tamagotchi is a virtual pet game that has some buttons which you tap to select and perform activities such as feeding your Tamagotchi, playing, and putting it to sleep. Try to make the Tamagotchi Happy!.',
     info2: '',
     url: 'https://hassenh1.github.io/Tomagotchi/',
     repo: 'https://github.com/HassenH1/Tomagotchi', // if no repo, the button will not show up
@@ -114,7 +123,8 @@ export const projectsData = [
     id: uuidv1(),
     img: 'pipboy.PNG',
     title: 'Pipboy from Fallout',
-    info: 'The Pip-Boy is a chunky portable computer that character from a video game wears on his or her wrist. It is used to keep track of everything in the game. So this is just a UI version.',
+    info:
+      'The Pip-Boy is a chunky portable computer that character from a video game wears on his or her wrist. It is used to keep track of everything in the game. So this is just a UI version.',
     info2: '',
     url: 'https://hassenh1.github.io/Pipboy-UI-from-Fallout-Bootstrap-/',
     repo: 'https://github.com/HassenH1/Pipboy-UI-from-Fallout-Bootstrap-', // if no repo, the button will not show up
