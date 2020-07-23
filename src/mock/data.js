@@ -1,4 +1,5 @@
 import uuidv1 from 'uuid/v1';
+import Pdf from '../pdf/Hassen Hasse Resume.pdf';
 
 // HEAD DATA
 export const headData = {
@@ -20,7 +21,7 @@ export const aboutData = {
   img: 'pic.jpg',
   paragraphOne:
     'Hi, my Name is Hassen S. Hassen and I am a software Engineer with a background in customer service. my background in customer service allows me to communicate effectively with both clients and on a team. I am a creative problem solver with a passion for learning and I continually seek better ways to provide clients with innovative solutions.',
-  resume: '../pdf/HassenHassenResumeLosAngeles.pdf', // if no resume, the button will not show up
+  resume: window.open(Pdf), // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
