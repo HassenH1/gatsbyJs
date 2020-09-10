@@ -28,6 +28,14 @@ export const aboutData = {
 export const projectsData = [
   {
     id: uuidv1(),
+    img: 'Screenshot (59).png',
+    title: 'Pong',
+    info: 'Can you beat the Computer?',
+    url: 'https://eager-poincare-b304cd.netlify.app/',
+    repo: 'https://github.com/HassenH1/Pong', // if no repo, the button will not show up
+  },
+  {
+    id: uuidv1(),
     img: 'Screenshot (36).png',
     title: 'Selling App',
     info:
